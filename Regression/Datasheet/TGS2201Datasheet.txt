@@ -1,4 +1,4 @@
-Datasheet-1:
+Datasheet-1 (Diesel Exhaust Gas):
 
 Air: 1
 Con: 0.1-1
@@ -45,7 +45,7 @@ NO2
 
 NO2: (0.1, 1.38) (0.2, 1.88) | (0.3, 2.54) | (0.4, 3.38) | (0.5, 4.33) | (0.6, 5.37) | (0.7, 6.73) | (0.8, 8.05) | (0.9, 9.28) | (1.0, 10.58)
 
-Datasheet-2:
+Datasheet-2 (Gasoline Exhaust Gas):
 
 Air: 1
 Con: 1-30
