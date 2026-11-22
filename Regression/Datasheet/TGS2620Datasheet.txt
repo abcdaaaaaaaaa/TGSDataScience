@@ -1,5 +1,7 @@
-Air: 20
 Con: 50-5000
+
+TGS2620
+Air: 20
 
 for ppm = a*ratio^b:
 
