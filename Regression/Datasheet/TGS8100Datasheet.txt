@@ -1,5 +1,33 @@
-Air: 1
 Con: 1-100
+
+TGS8100
+Air: 1
+
+for ppm = a*ratio^b:
+
+Gas    | a       | b
+Methane| 0.94    | -0.007 
+Iso-Butane_1| 0.94    | -0.1669
+Iso-Butane_2| 1.3653  | -0.3291
+CO_1   | 0.9     | -0.1908
+CO_2   | 1.2938  | -0.3485
+Ethanol_1| 0.7     | -0.4301
+Ethanol_2| 0.845   | -0.5119
+Hydrogen_1| 0.67    | -0.3789
+Hydrogen_2| 0.784   | -0.4472
+
+for ppm = 10^[(log10(ratio)-b)/m]:
+
+Gas    | m       | b
+Methane| -0.007  | -0.0269
+Iso-Butane_1| -0.1669 | -0.0269
+Iso-Butane_2| -0.3291 | 0.1352 
+CO_1   | -0.1908 | -0.0458
+CO_2   | -0.3485 | 0.1119 
+Ethanol_1| -0.4301 | -0.1549
+Ethanol_2| -0.5119 | -0.0731
+Hydrogen_1| -0.3789 | -0.1739
+Hydrogen_2| -0.4472 | -0.1057
 
 Methane
 1, 0.94
