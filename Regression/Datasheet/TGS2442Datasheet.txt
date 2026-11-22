@@ -1,5 +1,7 @@
-Air: 46.42 (Ethanol)
 Con: 30-1000 (Ethanol)
+
+TGS2442
+Air: 46.42 (Ethanol)
 
 for ppm = a*ratio^b:
 
