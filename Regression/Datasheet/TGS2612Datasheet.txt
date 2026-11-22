@@ -1,5 +1,7 @@
-Air: 14.7
 Con: 300-10000
+
+TGS2612
+Air: 14.7
 
 for ppm = a*ratio^b:
 
