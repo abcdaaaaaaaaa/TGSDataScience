@@ -1,5 +1,7 @@
-Air: 4.5
 Con: 30-300
+
+TGS826
+Air: 4.5
 
 for ppm = a*ratio^b:
 
