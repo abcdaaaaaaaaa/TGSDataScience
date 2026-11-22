@@ -3,34 +3,6 @@ Con: 500-10000
 TGS813
 Air: 4.827
 
-logm for CO: -0.2245 logb for CO: 1.2025
-valuea for CO: 15.9389, valueb for CO: -0.2245
-R-squared for CO: 0.9992
-logm for Ethanol: -0.5636 logb for Ethanol: 1.7711
-valuea for Ethanol: 59.0323, valueb for Ethanol: -0.5636
-R-squared for Ethanol: 0.9984
-logm for Methane: -0.4704 logb for Methane: 1.4144
-valuea for Methane: 25.9676, valueb for Methane: -0.4704
-R-squared for Methane: 0.9997
-logm for Propane: -0.4803 logb for Propane: 1.355
-valuea for Propane: 22.6457, valueb for Propane: -0.4803
-R-squared for Propane: 0.9999
-logm for IsoButane: -0.4779 logb for IsoButane: 1.3147
-valuea for IsoButane: 20.6407, valueb for IsoButane: -0.4779
-R-squared for IsoButane: 0.9998
-logm for Hydrogen_1: -0.455 logb for Hydrogen_1: 1.1286
-valuea for Hydrogen_1: 13.4473, valueb for Hydrogen_1: -0.455
-R-squared for Hydrogen_1: 0.9997
-logm for Hydrogen_2: -0.3342 logb for Hydrogen_2: 0.7704
-valuea for Hydrogen_2: 5.8942, valueb for Hydrogen_2: -0.3342
-R-squared for Hydrogen_2: 1.0000
-logm for Hydrogen_3: -0.498 logb for Hydrogen_3: 1.2622
-valuea for Hydrogen_3: 18.2889, valueb for Hydrogen_3: -0.498
-R-squared for Hydrogen_3: 0.9998
-logm for Hydrogen_4: -0.4688 logb for Hydrogen_4: 1.16
-valuea for Hydrogen_4: 14.4533, valueb for Hydrogen_4: -0.4688
-R-squared for Hydrogen_4: 0.9998
-
 for ppm = a*ratio^b:
 
 Gas    | a       | b
