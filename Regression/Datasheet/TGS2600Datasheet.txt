@@ -1,4 +1,6 @@
 Air: 1
+
+TGS2600
 Con: 1-100
 
 for ppm = a*ratio^b:
